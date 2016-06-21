@@ -3,15 +3,22 @@
 
 <http://preaction.github.io/Effective-Documentation/>
 
-How to write effective docs efficiently
+<div style="width: 50%; float: left">
 
-by [Doug Bell (preaction)](http://preaction.me)  
-<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i> @preaction</a> |
-<a href="http://github.com/preaction"><i class="fa fa-github"></i> preaction</a> |
-[Chicago.PM](http://chicago.pm.org)
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/Effective-Documentation)<br/>
 
-Source: <https://github.com/preaction/Effective-Documentation>  
-License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)<br/>
+
+</div>
+
+<div class="width: 50%; float: left">
+
+by [Doug Bell (preaction)](http://preaction.me)<br>
+<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i> @preaction</a><br/>
+<a href="http://github.com/preaction"><i class="fa fa-github"></i> preaction</a><br>
+[Chicago.PM](http://chicago.pm.org)<br>
+
+</div>
 
 ------
 
@@ -57,11 +64,11 @@ Welcome to the team!
 
 ------
 
-# Code Without Why is Technical Debt
+# Code Without "Why" is Technical Debt
 
 ------
 
-# XXX
+# What Can You Do?
 
 ------
 
@@ -80,13 +87,14 @@ Docs by you for you
 # New Devs
 
 They've got questions..
-Docs have answers
+Docs must answer
 
 ---
 
 # Users
 
-Code can't help them
+Code can't help them..
+Using web docs
 
 ------
 
@@ -114,6 +122,28 @@ TL;DR
 
 # Goes on top
 
+First thing seen
+
+-------
+
+# Synopsis
+
+---
+
+# Code example
+
+---
+
+# What real usage looks like
+
+A picture is worth a thousand words
+
+---
+
+# Goes on top
+
+Second thing seen
+
 ------
 
 # Description
@@ -138,27 +168,13 @@ TL;DR
 
 # Terms and definitions
 
----
-
-# Goes on top
-
--------
-
-# Synopsis
-
----
-
-# Code example
-
----
-
-# What real usage looks like
-
-A picture is worth a thousand words
+Jargon, abbreviations, in-jokes
 
 ---
 
 # Goes on top
+
+Third thing seen
 
 ------
 
@@ -172,6 +188,8 @@ A picture is worth a thousand words
 
 # Where to go next
 
+Would you like to know more?
+
 ---
 
 # Where to go first
@@ -180,9 +198,13 @@ A picture is worth a thousand words
 
 # Well-Linked Docs
 
+The Web is made of Links
+
 ---
 
 # Goes on top
+
+Fourth thing seen
 
 ------
 
@@ -375,6 +397,20 @@ Better solution
 # Link and Repeat
 
 Best solution
+
+------
+
+# Forget Private Methods
+
+---
+
+# Same Rules
+
+---
+
+# Comments
+
+Hidden from web users
 
 ------
 
